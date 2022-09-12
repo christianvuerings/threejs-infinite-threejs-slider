@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lil-gui": "^0.17.0",
+    "three": "^0.144.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.7.0"
+  }
+}
