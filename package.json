@@ -1,4 +1,7 @@
 {
+	"scripts": {
+		"start": "parcel index.html"
+	},
   "dependencies": {
     "lil-gui": "^0.17.0",
     "three": "^0.144.0"
